@@ -1,7 +1,8 @@
 {
   "name": "frontend-code-challenge",
-  "version": "0.1.0",
-  "private": true,
+  "description": "Expeditors Front-End Code Challenge for take home candidates.",
+  "version": "1.0.0",
+  "author": "Engineering <koho.engineering@expeditors.com>",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

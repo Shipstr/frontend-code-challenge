@@ -1,24 +1,16 @@
-# frontend-code-challenge
+# Expeditors Front-End Code Challenge
 
 ## Project setup
 ```
-npm install
+yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+yarn run serve
 ```
 
 ### Lints and fixes files
 ```
-npm run lint
+yarn run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
