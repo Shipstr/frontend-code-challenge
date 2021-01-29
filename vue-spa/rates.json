@@ -1,0 +1,121 @@
+[
+ {
+   "id": 1,
+   "name": "Emmert, Inc",
+   "description": "The Federation's gone; the Borg is everywhere! ",
+   "flat shipping rate": 25.09,
+   "currency": "EUR"
+ },
+ {
+   "id": 2,
+   "name": "Gerlock & Co",
+   "description": "Yesterday I did not know how to eat gagh.",
+   "flat shipping rate": 27,
+   "currency": "USD"
+ },
+ {
+   "id": 3,
+   "name": "Riker Enterprises, Inc",
+   "description": "—",
+   "flat shipping rate": 20.1,
+   "currency": "USD"
+ },
+ {
+   "id": 4,
+   "name": "Richardson Co",
+   "description": "You'd be surprised how far a hug goes with Geordi, or Worf.",
+   "flat shipping rate": 19.75,
+   "currency": "EUR"
+ },
+ {
+   "id": 5,
+   "name": "Lakewood Transportation Inc",
+   "description": "And if I had it to do over again, I would have grabbed the phaser and pointed it at you instead of them.",
+   "flat shipping rate": 26.44,
+   "currency": "EUR"
+ },
+ {
+   "id": 6,
+   "name": "Ridge Container Shipping Inc",
+   "description": "—",
+   "flat shipping rate": 38.31,
+   "currency": "EUR"
+ },
+ {
+   "id": 7,
+   "name": "ACME Intl",
+   "description": "",
+   "flat shipping rate": 27.55,
+   "currency": "USD"
+ },
+ {
+   "id": 8,
+   "name": "Riverside Corp",
+   "description": "The game's not big enough unless it scares you a little.",
+   "flat shipping rate": 18.88,
+   "currency": "EUR"
+ },
+ {
+   "id": 9,
+   "name": "Candy Cane Lane",
+   "description": "Take the ship into the Neutral Zone My oath is between Captain Kargan and myself. Your only concern is with how you obey my orders.",
+   "flat shipping rate": 25.3,
+   "currency": "USD"
+ },
+ {
+   "id": 10,
+   "name": "North Pole Shipping Way",
+   "description": "",
+   "flat shipping rate": 22,
+   "currency": "USD"
+ },
+ {
+   "id": 11,
+   "name": "Herp A Derp Transportation Trucking",
+   "description": "Some days you get the bear, and some days the bear gets you. We know you're dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf. ",
+   "flat shipping rate": 31.70,
+   "currency": "EUR"
+ },
+ {
+   "id": 12,
+   "name": "King Shipping",
+   "description": "Thinking outside the box make it look like digital. Innovation is hot right now a better understanding of usage can aid in prioritizing future efforts I just wanted to give you a heads-up dunder mifflin brand terrorists what are the expectations.",
+   "flat shipping rate": 33.5,
+   "currency": "EUR"
+ },
+ {
+   "id": 13,
+   "name": "Games of Thrones and Co",
+   "description": "Win-win it's not hard guys.",
+   "flat shipping rate": 29.66,
+   "currency": "EUR"
+ },
+ {
+   "id": 14,
+   "name": "Ski Pass Truckers",
+   "description": "This is meaningless quick sync incentivization we need a paradigm shift window-licker sea change.",
+   "flat shipping rate": 30,
+   "currency": "EUR"
+ },
+ {
+   "id": 15,
+   "name": "Next Door Neighbor Shippers",
+   "description": "You did exactly what you had to do. You considered all your options, you tried every alternative and then you made the hard choice.",
+   "flat shipping rate": 26.89,
+   "currency": "USD"
+ },
+ {
+   "id": 16,
+   "name": "NY to FL Direct",
+   "description": "We could cause a diplomatic crisis.",
+   "flat shipping rate": 19.25,
+   "currency": "USD"
+ },
+ {
+   "id": 17,
+   "name": "Shippy McShipface",
+   "description": "Take the ship into the Neutral Zone My oath is between Captain Kargan and myself. Your only concern is with how you obey my orders.",
+   "flat shipping rate": 24.9,
+   "currency": "EUR"
+ }
+]
