@@ -1,11 +1,11 @@
-## Project setup React
+## Project setup Vue
 ```
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn run start
+yarn run serve
 ```
 
 ### Compiles and minifies for production
@@ -13,6 +13,7 @@ yarn run start
 yarn run build
 ```
 
-### Runs tests
+### Lints and fixes files
 ```
-yarn run test
+yarn run lint
+```
