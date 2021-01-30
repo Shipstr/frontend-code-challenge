@@ -1,32 +1,15 @@
 # Expeditors Front-End Code Challenge
 
 ## Overview
-The complete this challenge we would like for you to consume `rates.json` file and display a table with providers and rates.
+To complete this challenge we would like for you to consume `rates.json` file and display a table with providers and rates.
 * The table should be able to sort on `Provider` and `Total`.
 * The table should be filterable by currency.
 * Style the table using UI/UX best practices.
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
+### To Start
 We have created a bare-bones Vue and React app in directories `vue-spa` and `react-spa`.
+
+Select which project (Vue or React) you would like to work with, cd into it and follow the README.md instructions to set up the project and begin.
 
 We encourage you to demonstrate your workflow via Git commits with good messages. It's important to note that it's by no means a test...we just want to get a sense for how you write code and solve problems.
 
