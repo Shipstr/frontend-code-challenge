@@ -1,4 +1,4 @@
-# Expeditors Front-End Code Challenge
+# Koho Front-End Code Challenge
 
 ## Overview
 To complete this challenge we would like for you to consume `rates.json` file and display a table with providers and rates.
